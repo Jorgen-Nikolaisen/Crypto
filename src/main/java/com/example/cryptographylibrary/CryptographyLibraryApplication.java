@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class CryptographyLibraryApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(CryptographyLibraryApplication.class, args);
     }
 
